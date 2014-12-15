@@ -1,0 +1,18 @@
+---
+title: "Economic and social impacts of storms"
+output: html_document
+---
+
+## Synopsis (ate 10 frases qu resumem tudo)
+
+## Data Processing
+# download.file("https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2")
+# download.file("https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2Fpd01016005curr.pdf")
+
+## Results
+
+## Need at least one plot figure up to three figures containing each more than one plot. 
+
+## Events most harmful to population health
+
+## Events with the greatest economic consequences
